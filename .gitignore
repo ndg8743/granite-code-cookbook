@@ -1,5 +1,6 @@
 # venv files
 venv/
+venv*/
 env/
 .venv
 .venv*
@@ -21,6 +22,12 @@ ipython_config.py
 
 # "Temporary" workspaces.
 temp/
+run_finetune.py
+run_gpfs_finetune.py
+
+# GPFS fine-tuning data and results
+gpfs_data/
+gpfs_results/
 
 # CodeLLM_DevKit output
 analysis.json
