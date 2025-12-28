@@ -23,6 +23,7 @@ the IBM Granite Code models.
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-code-cookbook/blob/main/recipes/Fine_Tuning_Granite/Finetuning_Granite.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
+1. [Fine-tuning Granite on IBM Storage Scale (GPFS)](recipes/finetune-gpfs/Finetuning_Granite_GPFS.ipynb) - Domain-specific fine-tuning on GPFS documentation with qLoRA
 1. [Generating code summary using CodeLLM-DevKit](recipes/CodeLLM_DevKit/code_summarization.ipynb)
 1. [Generating junit test cases using CodeLLM-DevKit](recipes/CodeLLM_DevKit/generate_unit_tests.ipynb)
 1. [Generating Python code from unit tests](recipes/Code_Gen_from_Tests/Code_Gen_from_Tests.ipynb)
